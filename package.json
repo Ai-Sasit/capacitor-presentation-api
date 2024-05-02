@@ -1,6 +1,6 @@
 {
   "name": "capacitor-presentation-api",
-  "version": "0.0.1",
+  "version": "1.1.0",
   "description": "The plugin use to presentation to second monitor, Capacitor v5 plugin, Only Android",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
